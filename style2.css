@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    background-image: url(https://newellbrands.imgix.net/e0c35b80-6d73-3b7f-80ee-2f6be91126fe/e0c35b80-6d73-3b7f-80ee-2f6be91126fe.jpg?fm=jpg);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header h1{
+    font-size: 55px;
+    font-weight: 400;
+    margin: 10px;
+    margin-left: 2cm;
+}
+header p{
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 2cm;
+}
